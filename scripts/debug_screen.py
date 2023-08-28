@@ -1,0 +1,1 @@
+../switch-microcontroller/scripts/debug_screen.py
